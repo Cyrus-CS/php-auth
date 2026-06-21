@@ -140,4 +140,4 @@ Distribué sous licence **MIT**. Voir le fichier `LICENSE` pour plus de détails
 
 ## Auteur
 
-**Cyrus** — [@Cyrus-CS](https://github.com/Cyrus-CS)
+**Cyrus** | [@Cyrus-CS](https://github.com/Cyrus-CS) ; Réseau Social FaceBook: [@Eben-Ezer](https://web.facebook.com/profile.php?id=61578476155133) 
