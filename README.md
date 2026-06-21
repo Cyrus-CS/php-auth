@@ -6,7 +6,7 @@
 
 ## Aperçu
 
-**php-auth-sqlite** est un boilerplate d'authentification léger, sans framework, conçu pour être intégré rapidement dans n'importe quel projet PHP. Il couvre l'inscription, la connexion sécurisée et la gestion de session, avec un design sombre moderne et une expérience utilisateur soignée.
+**php-auth** est un boilerplate d'authentification léger, sans framework, conçu pour être intégré rapidement dans n'importe quel projet PHP. Il couvre l'inscription, la connexion sécurisée et la gestion de session, avec un design sombre moderne et une expérience utilisateur soignée.
 
 <img width="765" height="647" alt="Image" src="https://github.com/user-attachments/assets/2b59669c-2c30-4de1-b4a8-eb5d581e7ffc" />
 <img width="765" height="647" alt="Image" src="https://github.com/user-attachments/assets/72311084-386f-4ad6-b56f-653ed4c788a9" />
