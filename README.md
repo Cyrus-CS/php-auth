@@ -1,4 +1,4 @@
-# php-auth-sqlite
+# php-auth
 
 > Système d'authentification PHP natif avec SQLite — inscription, connexion, gestion de session et indicateur de force du mot de passe.
 
