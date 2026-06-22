@@ -8,10 +8,7 @@
 
 **php-auth** est un boilerplate d'authentification léger, sans framework, conçu pour être intégré rapidement dans n'importe quel projet PHP. Il couvre l'inscription, la connexion sécurisée et la gestion de session, avec un design sombre moderne et une expérience utilisateur soignée.
 
-<img width="765" height="647" alt="Image" src="https://github.com/user-attachments/assets/2b59669c-2c30-4de1-b4a8-eb5d581e7ffc" />
-<img width="765" height="647" alt="Image" src="https://github.com/user-attachments/assets/72311084-386f-4ad6-b56f-653ed4c788a9" />
-<img width="791" height="648" alt="Image" src="https://github.com/user-attachments/assets/a1ac0b07-6279-4caf-89de-42bdf810fc34" />
-<img width="791" height="648" alt="Image" src="https://github.com/user-attachments/assets/ccc59973-f4fe-4ecc-b7b3-07d0a7fc7e90" />
+https://github.com/user-attachments/assets/57158e29-9176-46e1-beca-d4d75ac55bb6
 
 ### Fonctionnalités
 
